@@ -1,4 +1,5 @@
 Overview
+<br>
 This project is a Java-based implementation of a custom hash table, featuring various components such as collision handling, iterators, and custom exceptions. It is designed to provide an illustrative example of data structures and algorithms in Java.
 
 
